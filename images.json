@@ -1,62 +1,68 @@
 [
   {
-    "name": "Puzzle 1",
-    "download_url": "https://raw.githubusercontent.com/gamesspeedprodev-bot/jigssawAnime/main/Anime/1.jpeg",
-    "type": "file"
+    "title": "Drawing 1",
+    "url": "https://raw.githubusercontent.com/gamesspeedprodev-bot/digitalcircus/main/Anime/1.png",
+    "price": 0
   },
   {
-    "name": "Puzzle 2",
-    "download_url": "https://raw.githubusercontent.com/gamesspeedprodev-bot/jigssawAnime/main/Anime/2.jpeg",
-    "type": "file"
+    "title": "Drawing 2",
+    "url": "https://raw.githubusercontent.com/gamesspeedprodev-bot/digitalcircus/main/Anime/2.png",
+    "price": 0
   },
   {
-    "name": "Puzzle 3",
-    "download_url": "https://raw.githubusercontent.com/gamesspeedprodev-bot/jigssawAnime/main/Anime/3.jpg",
-    "type": "file"
+    "title": "Drawing 3",
+    "url": "https://raw.githubusercontent.com/gamesspeedprodev-bot/digitalcircus/main/Anime/3.png",
+    "price": 0
   },
   {
-    "name": "Puzzle 4",
-    "download_url": "https://raw.githubusercontent.com/gamesspeedprodev-bot/jigssawAnime/main/Anime/4.jpg",
-    "type": "file"
+    "title": "Drawing 4",
+    "url": "https://raw.githubusercontent.com/gamesspeedprodev-bot/digitalcircus/main/Anime/4.png",
+    "price": 0
   },
   {
-    "name": "Puzzle 5",
-    "download_url": "https://raw.githubusercontent.com/gamesspeedprodev-bot/jigssawAnime/main/Anime/5.jpg",
-    "type": "file"
+    "title": "Drawing 5",
+    "url": "https://raw.githubusercontent.com/gamesspeedprodev-bot/digitalcircus/main/Anime/5.png",
+    "price": 100
   },
   {
-    "name": "Puzzle 6",
-    "download_url": "https://raw.githubusercontent.com/gamesspeedprodev-bot/jigssawAnime/main/Anime/6.jpg",
-    "type": "file"
+    "title": "Drawing 6",
+    "url": "https://raw.githubusercontent.com/gamesspeedprodev-bot/digitalcircus/main/Anime/6.png",
+    "price": 100
   },
   {
-    "name": "Puzzle 7",
-    "download_url": "https://raw.githubusercontent.com/gamesspeedprodev-bot/jigssawAnime/main/Anime/7.jpg",
-    "type": "file"
+    "title": "Drawing 7",
+    "url": "https://raw.githubusercontent.com/gamesspeedprodev-bot/digitalcircus/main/Anime/7.png",
+    "price": 100
   },
   {
-    "name": "Puzzle 8",
-    "download_url": "https://raw.githubusercontent.com/gamesspeedprodev-bot/jigssawAnime/main/Anime/8.jpg",
-    "type": "file"
+    "title": "Drawing 8",
+    "url": "https://raw.githubusercontent.com/gamesspeedprodev-bot/digitalcircus/main/Anime/8.png",
+    "price": 100
   },
   {
-    "name": "Puzzle 9",
-    "download_url": "https://raw.githubusercontent.com/gamesspeedprodev-bot/jigssawAnime/main/Anime/9.jpg",
-    "type": "file"
+    "title": "Drawing 9",
+    "url": "https://raw.githubusercontent.com/gamesspeedprodev-bot/digitalcircus/main/Anime/9.png",
+    "price": 120
   },
   {
-    "name": "Puzzle 10",
-    "download_url": "https://raw.githubusercontent.com/gamesspeedprodev-bot/jigssawAnime/main/Anime/10.jpg",
-    "type": "file"
+    "title": "Drawing 10",
+    "url": "https://raw.githubusercontent.com/gamesspeedprodev-bot/digitalcircus/main/Anime/10.png",
+    "price": 120
   },
   {
-    "name": "Puzzle 11",
-    "download_url": "https://raw.githubusercontent.com/gamesspeedprodev-bot/jigssawAnime/main/Anime/11.jpg",
-    "type": "file"
+    "title": "Drawing 11",
+    "url": "https://raw.githubusercontent.com/gamesspeedprodev-bot/digitalcircus/main/Anime/11.png",
+    "price": 120
   },
   {
-    "name": "Puzzle 12",
-    "download_url": "https://raw.githubusercontent.com/gamesspeedprodev-bot/jigssawAnime/main/Anime/12.jpg",
-    "type": "file"
+    "title": "Drawing 12",
+    "url": "https://raw.githubusercontent.com/gamesspeedprodev-bot/digitalcircus/main/Anime/12.png",
+    "price": 150
+  },
+  {
+    "title": "Drawing 13",
+    "url": "https://raw.githubusercontent.com/gamesspeedprodev-bot/digitalcircus/main/Anime/13.png",
+    "price": 150
   }
+
 ]
